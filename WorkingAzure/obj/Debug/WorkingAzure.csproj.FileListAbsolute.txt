@@ -1,0 +1,7 @@
+C:\Users\Shreya Nigam\source\WorkingAzureSol\WorkingAzure\bin\Debug\WorkingAzure.exe.config
+C:\Users\Shreya Nigam\source\WorkingAzureSol\WorkingAzure\bin\Debug\WorkingAzure.exe
+C:\Users\Shreya Nigam\source\WorkingAzureSol\WorkingAzure\bin\Debug\WorkingAzure.pdb
+C:\Users\Shreya Nigam\source\WorkingAzureSol\WorkingAzure\obj\Debug\WorkingAzure.csprojAssemblyReference.cache
+C:\Users\Shreya Nigam\source\WorkingAzureSol\WorkingAzure\obj\Debug\WorkingAzure.csproj.CoreCompileInputs.cache
+C:\Users\Shreya Nigam\source\WorkingAzureSol\WorkingAzure\obj\Debug\WorkingAzure.exe
+C:\Users\Shreya Nigam\source\WorkingAzureSol\WorkingAzure\obj\Debug\WorkingAzure.pdb
